@@ -249,9 +249,9 @@ Contributions, issues, and feature requests are welcome!
 
 <div align="center">
 
-[![Issues](https://img.shields.io/github/issues/yourusername/breadcrumb?style=for-the-badge)](../../issues)
-[![Pull Requests](https://img.shields.io/github/issues-pr/yourusername/breadcrumb?style=for-the-badge)](../../pulls)
-[![Forks](https://img.shields.io/github/forks/yourusername/breadcrumb?style=for-the-badge)](../../network/members)
+[![Issues](https://img.shields.io/github/issues/Devatva24/breadcrumb?style=for-the-badge)](../../issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/Devatva24/breadcrumb?style=for-the-badge)](../../pulls)
+[![Forks](https://img.shields.io/github/forks/Devatva24/breadcrumb?style=for-the-badge)](../../network/members)
 
 </div>
 
